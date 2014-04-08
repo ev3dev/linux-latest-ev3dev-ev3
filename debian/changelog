@@ -1,5 +1,11 @@
+linux-latest-ev3dev (1) saucy; urgency=low
+
+  * update for new kernel package
+
+ -- David Lechner <david@lechnology.com>  Mon, 07 Apr 2014 23:19:31 -0500
+
 linux-latest-ev3dev (0) stable; urgency=low
 
   * Initial Release.
 
- -- David Lechner <david@lechnology.com>  Fri, 07 Mar 2014 23:11:36 -0600
+ -- David Lechner <david@lechnology.com>  Mon, 07 Apr 2014 23:18:51 -0500
