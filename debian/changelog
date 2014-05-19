@@ -1,3 +1,10 @@
+linux-latest-ev3dev (2) stable; urgency=medium
+
+  * update for new kernel package 3.3.0-2-ev3dev
+  * add rtl8188eu-modules package as dependency
+
+ -- David Lechner <david@lechnology.com>  Mon, 19 May 2014 13:44:57 -0500
+
 linux-latest-ev3dev (1) saucy; urgency=low
 
   * update for new kernel package
