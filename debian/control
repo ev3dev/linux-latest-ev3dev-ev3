@@ -4,14 +4,15 @@ Priority: optional
 Maintainer: David Lechner <david@lechnology.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
-Vcs-Git: git://github.com/ev3dev-dpkg/linux-latest-ev3dev.git
-Vcs-Browser: http://github.com/ev3dev-dpkg/linux-latest-ev3dev
+Vcs-Git: git://github.com/ev3dev/linux-latest-ev3dev.git
+Vcs-Browser: http://github.com/ev3dev/linux-latest-ev3dev
 
 Package: linux-image-ev3dev
 Architecture: armel
-Provides: linux-latest-modules-3.14.7-2-ev3dev-pre1
-Depends: linux-image-3.14.7-2-ev3dev-pre1,
-         rtl8192cu-modules-3.14.7-2-ev3dev-pre1,
+Provides: linux-latest-modules-3.14.17-1-ev3dev
+Depends: linux-image-3.14.17-1-ev3dev,
+         rtl8188eu-modules-3.14.17-1-ev3dev,
+         rtl8192cu-modules-3.14.17-1-ev3dev,
          ${misc:Depends}
 Description: Linux kernel for ev3dev (meta-package)
  This package depends on the latest Linux kernel and modules from the ev3dev
@@ -19,6 +20,6 @@ Description: Linux kernel for ev3dev (meta-package)
 
 Package: linux-headers-ev3dev
 Architecture: armel
-Depends: linux-headers-3.14.7-2-ev3dev-pre1, ${misc:Depends}
+Depends: linux-headers-3.14.17-1-ev3dev, ${misc:Depends}
 Description: Header files for Linux ev3dev configuration (meta-package)
  This package depends on the latest headers for the latest ev3dev Linux kernel.
