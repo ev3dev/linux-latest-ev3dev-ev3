@@ -2,7 +2,7 @@ linux-latest-ev3dev (5) testing; urgency=medium
 
   * new latest version 3.14.7-2-ev3dev-pre1
 
- -- David Lechner <david@lechnology.com>  Tue, 15 Jul 2014 17:47:21 -0500
+ -- David Lechner <david@lechnology.com>  Wed, 20 Aug 2014 20:07:11 -0500
 
 linux-latest-ev3dev (4) testing; urgency=medium
 
