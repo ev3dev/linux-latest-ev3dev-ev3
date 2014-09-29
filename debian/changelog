@@ -1,3 +1,9 @@
+linux-latest-ev3dev (10) testing; urgency=medium
+
+  * kerenel version 3.16.1-4-ev3dev
+
+ -- David Lechner <david@lechnology.com>  Sun, 28 Sep 2014 19:31:01 -0500
+
 linux-latest-ev3dev (9.1) testing; urgency=medium
 
   * Forgot to commit the changes. :-( 
