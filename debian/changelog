@@ -1,3 +1,9 @@
+linux-latest-ev3dev (11) testing; urgency=medium
+
+  * kernel version 3.16.1-5-ev3dev
+
+ -- David Lechner <david@lechnology.com>  Fri, 10 Oct 2014 23:18:25 -0500
+
 linux-latest-ev3dev (10) testing; urgency=medium
 
   * kerenel version 3.16.1-4-ev3dev
