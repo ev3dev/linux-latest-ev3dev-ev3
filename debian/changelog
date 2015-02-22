@@ -1,3 +1,9 @@
+linux-latest-ev3dev (17) testing; urgency=medium
+
+  * kernel version 3.16.7-ckt6-ev3dev1
+
+ -- David Lechner <david@lechnology.com>  Sun, 22 Feb 2015 17:28:44 -0600
+
 linux-latest-ev3dev (16) testing; urgency=medium
 
   * kernel version 3.16.7-ckt4-ev3dev1
