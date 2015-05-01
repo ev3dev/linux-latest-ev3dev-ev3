@@ -1,25 +1,26 @@
-Source: linux-latest-ev3dev
+Source: linux-latest-ev3dev-ev3
 Section: kernel
 Priority: optional
 Maintainer: David Lechner <david@lechnology.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.5
-Vcs-Git: git://github.com/ev3dev/linux-latest-ev3dev.git
-Vcs-Browser: http://github.com/ev3dev/linux-latest-ev3dev
+Vcs-Git: git://github.com/ev3dev/linux-latest-ev3dev-ev3.git
+Vcs-Browser: http://github.com/ev3dev/linux-latest-ev3dev-ev3
 
-Package: linux-image-ev3dev
+Package: linux-image-ev3dev-ev3
 Architecture: armel
-Provides: linux-latest-modules-3.16.7-ckt9-ev3dev1
-Depends: linux-image-3.16.7-ckt9-ev3dev1,
-         rtl8188eu-modules-3.16.7-ckt9-ev3dev1,
-         rtl8192cu-modules-3.16.7-ckt9-ev3dev1,
+Provides: linux-modules-3.16.7-ckt10-4-ev3dev-ev3
+Depends: linux-image-3.16.7-ckt10-4-ev3dev-ev3,
+         rtl8188eu-modules-3.16.7-ckt10-4-ev3dev-ev3,
          ${misc:Depends}
 Description: Linux kernel for ev3dev (meta-package)
  This package depends on the latest Linux kernel and modules from the ev3dev
- project for use on the LEGO Mindstorms EV3.
+ project for use on the LEGO MINDSTORMS EV3.
 
-Package: linux-headers-ev3dev
+Package: linux-headers-ev3dev-ev3
 Architecture: armel
-Depends: linux-headers-3.16.7-ckt9-ev3dev1, ${misc:Depends}
+Replaces: linux-headers-ev3dev
+Provides: linux-headers-ev3dev
+Depends: linux-headers-3.16.7-ckt10-4-ev3dev-ev3, ${misc:Depends}
 Description: Header files for Linux ev3dev configuration (meta-package)
  This package depends on the latest headers for the latest ev3dev Linux kernel.
