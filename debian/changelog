@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (20) stable; urgency=medium
+
+  * Update to kernel 3.16.7-ckt11-5-ev3dev-ev3
+
+ -- David Lechner <david@lechnology.com>  Wed, 20 May 2015 16:46:17 -0500
+
 linux-latest-ev3dev-ev3 (19) stable; urgency=medium
 
   * Rename packages to linux-*-ev3dev-ev3
