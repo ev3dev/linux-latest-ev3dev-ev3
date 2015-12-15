@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (24) stable; urgency=medium
+
+  * Update to kernel 3.16.7-ckt21-9-ev3dev-ev3
+
+ -- David Lechner <david@lechnology.com>  Tue, 15 Dec 2015 15:09:08 -0600
+
 linux-latest-ev3dev-ev3 (23) stable; urgency=medium
 
   * Update to kernel 3.16.7-ckt19-8-ev3dev-ev3
