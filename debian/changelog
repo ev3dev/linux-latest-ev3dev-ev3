@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (30) stable; urgency=medium
+
+  * Kernel 4.4.19-15-ev3dev-ev3
+
+ -- David Lechner <david@lechnology.com>  Sun, 04 Sep 2016 17:29:45 -0500
+
 linux-latest-ev3dev-ev3 (29) stable; urgency=medium
 
   * Kernel 4.4.17-14-ev3dev-ev3
