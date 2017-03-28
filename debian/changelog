@@ -1,3 +1,10 @@
+linux-latest-ev3dev-ev3 (35) testing; urgency=medium
+
+  * Target stretch
+  * Kernel 4.9.18-ev3dev-1.0.1-ev3
+
+ -- David Lechner <david@lechnology.com>  Tue, 28 Mar 2017 16:31:42 -0500
+
 linux-latest-ev3dev-ev3 (34) stable; urgency=medium
 
   * Kernel 4.4.47-19-ev3dev-ev3
