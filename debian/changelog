@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (34+jessie3) stable; urgency=medium
+
+  * Kernel 4.4.68-20-ev3dev-ev3
+
+ -- David Lechner <david@lechnology.com>  Mon, 15 May 2017 15:07:56 -0500
+
 linux-latest-ev3dev-ev3 (34+jessie2) stable; urgency=medium
 
   * Kernel 4.4.61-20-ev3dev-ev3
