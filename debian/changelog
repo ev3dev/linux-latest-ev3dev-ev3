@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (37) testing; urgency=medium
+
+  * Kernel 4.9.34-ev3dev-1.2.0-ev3
+
+ -- David Lechner <david@lechnology.com>  Mon, 26 Jun 2017 21:21:20 -0500
+
 linux-latest-ev3dev-ev3 (36) testing; urgency=medium
 
   * Kernel 4.9.22-ev3dev-1.1.0-ev3
