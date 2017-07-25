@@ -1,3 +1,11 @@
+linux-latest-ev3dev-ev3 (38) testing; urgency=medium
+
+  * Update debhelper and standards version
+  * Fix some lintian warnings
+  * Kernel 4.9.39-ev3dev-1.3.0-ev3
+
+ -- David Lechner <david@lechnology.com>  Tue, 25 Jul 2017 15:23:02 -0500
+
 linux-latest-ev3dev-ev3 (37) testing; urgency=medium
 
   * Kernel 4.9.34-ev3dev-1.2.0-ev3
