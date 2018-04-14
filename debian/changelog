@@ -1,6 +1,7 @@
 linux-latest-ev3dev-ev3 (43) stable; urgency=medium
 
   * Kernel 4.14.34-ev3dev-1.6.1-ev3
+  * Add rtl8812au-modules-4.14.34-ev3dev-1.6.1-ev3 package
 
  -- David Lechner <david@lechnology.com>  Sat, 14 Apr 2018 12:59:33 -0500
 

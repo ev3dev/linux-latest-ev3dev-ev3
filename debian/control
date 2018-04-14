@@ -11,6 +11,7 @@ Package: linux-image-ev3dev-ev3
 Architecture: armel
 Provides: linux-modules-4.14.34-ev3dev-1.6.1-ev3
 Depends: linux-image-4.14.34-ev3dev-1.6.1-ev3,
+         rtl8812au-modules-4.14.34-ev3dev-1.6.1-ev3,
          rtl8188eu-modules-4.14.34-ev3dev-1.6.1-ev3,
          ${misc:Depends}
 Description: Linux kernel for ev3dev (metapackage)
