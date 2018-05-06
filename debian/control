@@ -9,10 +9,10 @@ Vcs-Browser: https://github.com/ev3dev/linux-latest-ev3dev-ev3
 
 Package: linux-image-ev3dev-ev3
 Architecture: armel
-Provides: linux-modules-4.14.38-ev3dev-2.0.1-ev3-ev3
-Depends: linux-image-4.14.38-ev3dev-2.0.1-ev3-ev3,
-         rtl8812au-modules-4.14.38-ev3dev-2.0.1-ev3-ev3,
-         rtl8188eu-modules-4.14.38-ev3dev-2.0.1-ev3-ev3,
+Provides: linux-modules-4.14.38-ev3dev-2.0.1-ev3
+Depends: linux-image-4.14.38-ev3dev-2.0.1-ev3,
+         rtl8812au-modules-4.14.38-ev3dev-2.0.1-ev3,
+         rtl8188eu-modules-4.14.38-ev3dev-2.0.1-ev3,
          ${misc:Depends}
 Description: Linux kernel for ev3dev (metapackage)
  This package depends on the latest Linux kernel and modules from the ev3dev
@@ -22,6 +22,6 @@ Package: linux-headers-ev3dev-ev3
 Architecture: armel
 Replaces: linux-headers-ev3dev
 Provides: linux-headers-ev3dev
-Depends: linux-headers-4.14.38-ev3dev-2.0.1-ev3-ev3, ${misc:Depends}
+Depends: linux-headers-4.14.38-ev3dev-2.0.1-ev3, ${misc:Depends}
 Description: Header files for Linux ev3dev configuration (metapackage)
  This package depends on the latest headers for the latest ev3dev Linux kernel.
