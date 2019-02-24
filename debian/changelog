@@ -1,3 +1,11 @@
+linux-latest-ev3dev-ev3 (55) testing; urgency=medium
+
+  * Target buster
+  * Drop dependency on out-of-tree modules
+  * Kernel 4.19.24-ev3dev-3-beta1-ev3
+
+ -- David Lechner <david@lechnology.com>  Sat, 23 Feb 2019 20:35:05 -0600
+
 linux-latest-ev3dev-ev3 (54) stable; urgency=medium
 
   * Kernel 4.14.96-ev3dev-2.3.2-ev3
