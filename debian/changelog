@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (56) buster; urgency=medium
+
+  * Kernel 4.19.85-ev3dev-3-beta2-ev3
+
+ -- David Lechner <david@lechnology.com>  Sun, 24 Nov 2019 17:00:43 -0600
+
 linux-latest-ev3dev-ev3 (55) testing; urgency=medium
 
   * Target buster
