@@ -1,3 +1,9 @@
+linux-latest-ev3dev-ev3 (54.3) stretch; urgency=medium
+
+  * Kernel 4.14.117-ev3dev-2.3.5-ev3
+
+ -- David Lechner <david@lechnology.com>  Sat, 07 Mar 2020 13:09:29 -0600
+
 linux-latest-ev3dev-ev3 (54.2) stable; urgency=medium
 
   * Kernel 4.14.117-ev3dev-2.3.4-ev3
